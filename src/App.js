@@ -21,7 +21,7 @@ class App extends Component {
         this.setState(
           () => {
             return { monsters: users };
-          },
+          },``
         )
       );
   }
